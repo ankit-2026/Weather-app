@@ -81,7 +81,7 @@ main.jsx        - Application entry point
 
 1. Clone the repository
    
-   git clone https://github.com/rahul87sharma/Weather-app.git
+   git clone https://github.com/ankit-2026/Weather-app.git
    cd Weather-app
 
 2. Install dependencies
@@ -115,6 +115,6 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 This project is MIT licensed.
 
 👨‍💻 Author
-Rahul Sharma
+Ankit chauhan
 
-- GitHub: [@rahul87sharma](https://github.com/rahul87sharma)
+- GitHub: [@ankit-2026](https://github.com/ankit-2026)
